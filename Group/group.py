@@ -10,17 +10,6 @@
 # --------------------------------------
 # <comment-end>
 
-# <comment-start>
-# Decompiled by Rizemary (BlackZoneCode)
-# --------------------------------------
-# File type      : Python File
-# File hash (md5): 57ea9ca6ac3d0444ced178c369d08ea5
-# Original link  : https://github.com/SuwanXD/Group
-# Datetime       : 2023-08-02 00:42:02.851632
-# Source size    : 17.0 KB
-# Telegram       : @BZCTeam @Rizemary
-# --------------------------------------
-# <comment-end>
 import requests, re, os, sys, time, random
 from concurrent.futures import ThreadPoolExecutor as Modol
 from rich.progress import Progress, TextColumn
